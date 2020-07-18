@@ -9,7 +9,7 @@ let trennen = () => {
     let index = input.value.indexOf(word.value)
     if (index == -1) {
         before.innerHTML = "das war wohl nix"
-        after.innerHTML = input.value
+        after.innerHTML = " !!! "
         return;
     }
     if (davor.checked) {

@@ -29,7 +29,7 @@ h1, h2 {
 label {
     font-weight: 1.2em;
 }
-form #trennKette, #trennPosition {
+form #input, #word {
     display: block;
     width: 100%;
     margin-bottom: 16px;
